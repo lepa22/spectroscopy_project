@@ -1,1 +1,1 @@
-# spectrscopy_project
+# spectroscopy_project
