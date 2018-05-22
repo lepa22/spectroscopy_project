@@ -43,4 +43,4 @@ Some of the things that are to be added or changed are:
 - Plotting of DataFrames
 - more...
 
-For suggestions, bugs and ideas contact me via github.
+For suggestions, bugs and ideas contact me via github or email.
