@@ -34,6 +34,7 @@ will be added during the next months.
 Some of the things that are to be added or changed are:
 
 - Name the project
+- Documentation
 - Docstrings for most functions
 - Option to save multiple plots
 - First and second order differeantiation functions
