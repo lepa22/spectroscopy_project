@@ -11,6 +11,7 @@ for usage in Python 3 consoles.
 
 ## Requirements:
 
+- Python 3.6 and above
 - Jupyter Notebook
 - Matplotlib
 - NumPy
